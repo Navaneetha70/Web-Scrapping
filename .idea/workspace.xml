@@ -7,9 +7,11 @@
     <list default="true" id="3dec4de4-8800-4d2a-9213-708a19417559" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IPL_auction_states_2022.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PythonProject/.idea/PythonProject.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PythonProject/.idea/modules.xml" afterDir="false" />
@@ -62,6 +64,17 @@
       <updated>1742650185673</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
